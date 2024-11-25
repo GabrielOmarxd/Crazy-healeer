@@ -1,12 +1,6 @@
 # Sistema de Control Médico Básico
 
-Este es un sistema de control médico básico desarrollado en Java 8 y Swing con una base de datos MySQL 8 o 5. Este sistema permite a los usuarios administrar información médica, pacientes, citas y más.
-
-## Autor
-Jose Luis Caamal Ic
-jcaamalic@gmail.com
-Kaab Code
-Visita kaabcode.com
+Este es un sistema de control médico básico desarrollado en Java y Swing con una base de datos MySQL. Este sistema permite a los usuarios administrar información médica, pacientes, citas y más.
 
 ## Requisitos
 
@@ -40,10 +34,3 @@ Registro de tratamientos y diagnósticos.
 Registro de médicos y personal de salud.
 Seguridad con inicio de sesión.
 Informes y estadísticas básicas.
-Contribuciones
-Si deseas contribuir al desarrollo de este proyecto, siéntete libre de hacerlo. Puedes abrir problemas o enviar solicitudes de extracción. ¡Tu ayuda es bienvenida!
-
-Licencia
-Este sistema se distribuye bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más información.
-
-Este sistema es un proyecto de código abierto y no está destinado a un uso en entornos de producción sin una revisión y personalización adecuadas. Asegúrate de cumplir con todas las regulaciones de privacidad y seguridad de datos aplicables antes de implementarlo en un entorno real.
