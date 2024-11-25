@@ -7,7 +7,7 @@ package Controlador;
 
 /**
  *
- * @author joseluis.caamal
+ *  
  */
 public class controladorAmbulancia {
     

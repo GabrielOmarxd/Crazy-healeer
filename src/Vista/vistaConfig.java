@@ -15,8 +15,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author jcaamalic@gmail.com
- * @Date 15/08/2024
+ * 
  */
 public class vistaConfig extends javax.swing.JDialog {
 

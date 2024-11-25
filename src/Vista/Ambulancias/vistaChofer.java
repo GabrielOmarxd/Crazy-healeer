@@ -7,7 +7,7 @@ package Vista.Ambulancias;
 
 /**
  *
- * @author joseluis.caamal
+ *  
  */
 public class vistaChofer extends javax.swing.JDialog {
 

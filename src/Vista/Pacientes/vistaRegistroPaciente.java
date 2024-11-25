@@ -17,7 +17,7 @@ import javax.swing.JScrollPane;
 
 /**
  *
- * @author joseluis.caamal
+ *  
  */
 public class vistaRegistroPaciente extends javax.swing.JFrame {
 

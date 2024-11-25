@@ -9,7 +9,7 @@ import javax.swing.JComboBox;
 
 /**
  *
- * @author joseluis.caamal
+ *  
  */
 public class modeloDatos {
     /*BD*/

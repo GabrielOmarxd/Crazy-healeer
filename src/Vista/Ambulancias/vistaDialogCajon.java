@@ -7,7 +7,7 @@ package Vista.Ambulancias;
 
 /**
  *
- * @author joseluis.caamal
+ *  
  */
 public class vistaDialogCajon extends javax.swing.JDialog {
 

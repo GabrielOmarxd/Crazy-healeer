@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author joseluis.caamal
+ *  
  */
 public class editUsuarios extends javax.swing.JDialog {
     controladorBD cbd = new controladorBD();

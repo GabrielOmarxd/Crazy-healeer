@@ -7,7 +7,7 @@ package Vista.Citas;
 
 /**
  *
- * @author josel
+ * 
  */
 public class vistaPaciente extends javax.swing.JDialog {
 

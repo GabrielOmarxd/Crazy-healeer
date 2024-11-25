@@ -7,7 +7,7 @@ package Vista;
 
 /**
  *
- * @author hp
+ * 
  */
 class de {
     

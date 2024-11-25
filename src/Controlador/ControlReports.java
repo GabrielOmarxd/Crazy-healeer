@@ -7,7 +7,7 @@ package Controlador;
 
 /**
  *
- * @author joseluis.caamal
+ *  
  */
 //ControlReports 
 import java.io.FileOutputStream;

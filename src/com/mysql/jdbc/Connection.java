@@ -7,7 +7,7 @@ package com.mysql.jdbc;
 
 /**
  *
- * @author josel
+ * 
  */
 public class Connection {
     

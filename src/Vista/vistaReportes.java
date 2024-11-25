@@ -12,7 +12,7 @@ import org.apache.logging.log4j.LogManager;
 
 /**
  *
- * @author joseluis.caamal
+ *  
  */
 public class vistaReportes extends javax.swing.JFrame {
 

@@ -9,7 +9,7 @@ import Vista.loginInMedico;
 
 /**
  *
- * @author joseluis.caamal
+ *  
  */
 public class appPrincipal {
 

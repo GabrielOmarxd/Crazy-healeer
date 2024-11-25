@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author josel
+ * 
  */
 public class vistaConfiguracion extends javax.swing.JFrame {
 

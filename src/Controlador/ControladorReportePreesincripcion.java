@@ -6,7 +6,7 @@
 package Controlador;
 
 /*
-* @Author José Luis Caamal Ic
+* 
 */
 
 import com.itextpdf.text.*;

@@ -37,7 +37,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 /**
  *
- * @author joseluis.caamal
+ *  
  */
 public class controladorReporteTabla { 
    private static final org.apache.logging.log4j.Logger logger = LogManager.getLogger(controladorReporteTabla.class);;

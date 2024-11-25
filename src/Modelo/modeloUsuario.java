@@ -7,7 +7,7 @@ package Modelo;
 import lombok.Data;
 /**
  *
- * @author joseluis.caamal
+ *  
  */
 @Data
 public class modeloUsuario {

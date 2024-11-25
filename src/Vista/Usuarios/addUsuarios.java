@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 import org.apache.logging.log4j.LogManager;
 /**
  *
- * @author joseluis.caamal
+ *  
  */
 public class addUsuarios extends javax.swing.JDialog {
     controladorBD cbd = new controladorBD();

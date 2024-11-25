@@ -7,7 +7,7 @@ package Vista;
 
 /**
  *
- * @author joseluis.caamal
+ *  
  */
 public class vistaEspecialidadesMedicas extends javax.swing.JFrame {
 

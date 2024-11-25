@@ -7,7 +7,7 @@ package Controlador;
 
 /**
  *
- * @author joseluis.caamal
+ *  
  */
 import Modelo.modeloUsuario;
 import java.io.FileNotFoundException;
@@ -205,7 +205,7 @@ public class controladorBD {
     /*  ----------------------------------------------------------------------------------
     Nombre: Clase insertDataUsuario
     Función: Guarda los valores en la tabla correspondiente.
-    Aut@r: José Luis Caamal Ic
+    
     Parametros: Table: tabla_pacientes
                 Columns:
                 id_paciente int(11) PK 
@@ -258,7 +258,7 @@ public class controladorBD {
     /*  ----------------------------------------------------------------------------------
     Nombre: Clase insertDataUsuario
     Función: Guarda los valores en la tabla correspondiente.
-    Aut@r: José Luis Caamal Ic
+    
     Parametros: Table: tabla_pacientes
                 Columns:
                 id_paciente int(11) PK 
@@ -309,7 +309,7 @@ public class controladorBD {
         /*  ----------------------------------------------------------------------------------
     Nombre: Clase insertDataUsuario
     Función: Guarda los valores en la tabla correspondiente.
-    Aut@r: José Luis Caamal Ic
+    
     Parametros: Table: tabla_pacientes
                 Columns:
                 id_paciente int(11) PK 
@@ -361,7 +361,7 @@ public class controladorBD {
      /*  ----------------------------------------------------------------------------------
     Nombre: Clase updateDataUsuario
     Función: Guarda los valores en la tabla correspondiente.
-    Aut@r: José Luis Caamal Ic
+    
     Parametros: Table: tabla_pacientes
                 Columns:
                 c
@@ -390,7 +390,7 @@ public class controladorBD {
 /*  ----------------------------------------------------------------------------------
     Nombre: Clase insertDataUsuario
     Función: Guarda los valores en la tabla correspondiente.
-    Aut@r: José Luis Caamal Ic
+    
     Parametros: table_name -- Nombre de la tabla
                 dni_user -- Nombre Usuario
                 usuario --- Usuario que recibe el nombre
@@ -416,7 +416,7 @@ public class controladorBD {
 /*  ----------------------------------------------------------------------------------
     Nombre: Clase insertDatosUsuario
     Función: Guarda los valores en la tabla correspondiente.
-    Aut@r: José Luis Caamal Ic
+    
     Parametros: table_name -- Nombre de la tabla
                 dni_user -- Nombre Usuario
                 usuario --- Usuario que recibe el nombre
@@ -460,7 +460,7 @@ public Object[] selectLlenaTabla(){
  /*  ----------------------------------------------------------------------------------
     Nombre: Clase insertDatosUsuario
     Función: Guarda los valores en la tabla correspondiente.
-    Aut@r: José Luis Caamal Ic
+    
     Parametros: table_name -- Nombre de la tabla
                 dni_user -- Nombre Usuario
                 usuario --- Usuario que recibe el nombre

@@ -7,7 +7,7 @@ package Controlador;
 
 /**
  *
- * @author joseluis.caamal
+ *  
  */
 import java.security.SecureRandom;
 import java.text.ParseException;
@@ -20,14 +20,14 @@ import org.apache.commons.codec.binary.Base64;
 //import javax.swing.JTextField;
 /**
  *
- * @author Jose Luis Caamal Ic
+ * 
  */
 public class controladorLibrerias {
 
 /*  ----------------------------------------------------------------------------------
     Nombre: Clase validarFecha
     Función: valida fechas
-    Aut@r: José Luis Caamal Ic
+    
     Parametros: fecha -- Fecha Entrada
     ----------------------------------------------------------------------------------
 */
@@ -44,7 +44,7 @@ public boolean validarFecha(String fecha) {
 /*  ----------------------------------------------------------------------------------
     Nombre: Clase convertirDatos
     Función: Cobvierte fechas
-    Aut@r: José Luis Caamal Ic
+    
     Parametros: dateEntrada -- Fecha Entrada
                 dateSalida -- Fecha Salida
     ----------------------------------------------------------------------------------
@@ -70,7 +70,7 @@ public Date convertirDatos( String dateEntrada, Date dateSalida) {
 /*  ----------------------------------------------------------------------------------
     Nombre: Clase dameFechaActual
     Función: Guarda los valores en la tabla correspondiente.
-    Aut@r: José Luis Caamal Ic
+    
     Parametros: darFecha -- Fecha dada en el registro
     ----------------------------------------------------------------------------------
 */
@@ -86,7 +86,7 @@ public String dameFechaActual( String darFecha){
 /*  ----------------------------------------------------------------------------------
     Nombre: Clase validaMes
     Función: valida el rango de Mes
-    Aut@r: José Luis Caamal Ic
+    
     Parametros: mes -- Fecha mes
     ----------------------------------------------------------------------------------
 */
@@ -103,7 +103,7 @@ public boolean validaMes(String mes){
 /*  ----------------------------------------------------------------------------------
     Nombre: Clase validaDia
     Función: valida el rango de Dia
-    Aut@r: José Luis Caamal Ic
+    
     Parametros: dia -- Fecha dia
     ----------------------------------------------------------------------------------
 */
@@ -120,7 +120,7 @@ public boolean validaDia(String dia){
 /*  ----------------------------------------------------------------------------------
     Nombre: Clase validaAno
     Función: valida el rango de Ano
-    Aut@r: José Luis Caamal Ic
+    
     Parametros: año -- Fecha año
     ----------------------------------------------------------------------------------
 */
